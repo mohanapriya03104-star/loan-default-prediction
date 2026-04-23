@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pickle
 
-# -------------------------------
+# ------------------------------
 # PAGE CONFIG
 # -------------------------------
 st.set_page_config(page_title="HDI Predictor", layout="centered")
